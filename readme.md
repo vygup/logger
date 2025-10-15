@@ -3,8 +3,6 @@
 Установка:
 ```py
 sys.path.append('') # Путь до функции
-# OR
-os.chdir('') # Путь до функции
 
 from logs import logs
 ```
